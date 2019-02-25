@@ -1,0 +1,13 @@
+server:
+  port: 9009
+spring:
+  application:
+    name: tensquare-sms
+  rabbitmq:
+    host: 192.168.189.128
+aliyun:
+  sms:
+    accessKeyId:LTAIx
+    accessKeySecret:jdsa
+    template_code:SMS_SDAS
+    sign_name:里看看
